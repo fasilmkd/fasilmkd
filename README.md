@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Mohammed fasil]
+# 👋 Hi, I'm Mohammed Fasil
 
-🚀 **Full-Stack Developer | Freelancer**
+🚀 **Full-Stack Developer |DOT NET|React js|php**
 
 I specialize in building scalable and efficient web applications with a focus on performance, security, and user experience. With expertise in **.NET Core**, **React**, and **Azure**, I help businesses bring their ideas to life through clean, maintainable code and modern cloud solutions.
 
@@ -24,14 +24,14 @@ I specialize in building scalable and efficient web applications with a focus on
 
 ## 📂 Portfolio Highlights
 
-- **[Project 1 Name](#)**:  
-  Built a SaaS platform using .NET Core, React, and Azure for real-time data analysis.  
+- **ERP System**:  
+  Designed and developed a comprehensive **ERP application** using .NET Core, React, and Azure. Features include inventory management, payroll processing, and analytics dashboards.
 
-- **[Project 2 Name](#)**:  
-  Developed a multi-tenant web app with advanced authentication and authorization.  
+- **E-commerce Web Application**:  
+  Built a scalable **e-commerce platform** with .NET Core and React, integrating payment gateways, product catalogs, and user authentication. Deployed on Azure with CI/CD pipelines.
 
-- **[Project 3 Name](#)**:  
-  Migrated legacy applications to Azure, reducing operational costs by 30%.  
+- **CRM System**:  
+  Developed a feature-rich **CRM solution** for customer relationship management. Implemented advanced lead tracking, customer segmentation, and automated email campaigns using .NET Core and React.
 
 ---
 
@@ -48,10 +48,8 @@ I specialize in building scalable and efficient web applications with a focus on
 
 ## 📫 Get in Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
+- **Email**: [fasilmkd47@gmail.com](mailto:fasilmkd47@gmail.com)  
+- **Phone**: [+91 9645858111](tel:+91 9645858111)
 
 ---
 
