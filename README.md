@@ -1,38 +1,60 @@
-### Hi there, I'm Mohammed Fasil 👋
+# 👋 Hi, I'm [Mohammed fasil]
 
-[![Website](https://img.shields.io/website?label=ultraDevs.com&style=for-the-badge&url=https://ultraDevs.com)](https://ultraDevs.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mh_imon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmhimon&screen_name=mh_imon)
+🚀 **Full-Stack Developer | Freelancer**
 
-## I'm a Full Stack Developer!
+I specialize in building scalable and efficient web applications with a focus on performance, security, and user experience. With expertise in **.NET Core**, **React**, and **Azure**, I help businesses bring their ideas to life through clean, maintainable code and modern cloud solutions.
 
-- 🔭 I’m currently working on Erp Application
+---
 
-### Languages and Tools:
+## 💻 What I Do
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- **Backend Development**:  
+  - ASP.NET Core, Web APIs, Entity Framework Core, Identity Server  
+  - RESTful APIs, microservices, and serverless architectures  
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+- **Frontend Development**:  
+  - React, TypeScript, Material-UI, Tailwind CSS  
+  - Responsive and accessible user interfaces  
 
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+- **Cloud & DevOps**:  
+  - Azure Functions, Azure App Services, Azure SQL, Cosmos DB  
+  - CI/CD pipelines with GitHub Actions, Azure DevOps  
 
-<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+---
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 📂 Portfolio Highlights
 
-<br />
-<br />
-### Products Available
-<ul align="left">
-	<li>Erp</li>
-</ul>
+- **[Project 1 Name](#)**:  
+  Built a SaaS platform using .NET Core, React, and Azure for real-time data analysis.  
+
+- **[Project 2 Name](#)**:  
+  Developed a multi-tenant web app with advanced authentication and authorization.  
+
+- **[Project 3 Name](#)**:  
+  Migrated legacy applications to Azure, reducing operational costs by 30%.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: C#, JavaScript/TypeScript, SQL  
+- **Backend**: ASP.NET Core, Web API, Entity Framework Core  
+- **Frontend**: React, Redux, Next.js  
+- **Database**: SQL Server, PostgreSQL, Azure SQL, Cosmos DB  
+- **Cloud**: Azure (Functions, App Service, Storage, Key Vault)  
+- **DevOps**: Docker, Kubernetes, Azure DevOps, GitHub Actions  
+
+---
+
+## 📫 Get in Touch
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
+
+---
+
+## 💡 Let's Collaborate!
+
+If you're looking for a developer to bring your ideas to life or optimize your existing applications, feel free to reach out. I'm open to freelance projects, long-term collaborations, and exciting challenges!
