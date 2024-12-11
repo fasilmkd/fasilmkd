@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Fasil
 
-🚀 **Full-Stack Developer |DOT NET|React js|php**
+🚀 **Full-Stack Developer |DOT NET|React JS|PHP**
 
 I specialize in building scalable and efficient web applications with a focus on performance, security, and user experience. With expertise in **.NET Core**, **React**, and **Azure**, I help businesses bring their ideas to life through clean, maintainable code and modern cloud solutions.
 
